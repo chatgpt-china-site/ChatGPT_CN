@@ -33,12 +33,12 @@
 ## 国内可用的 ChatGPT 中文版镜像网站推荐
 
 以下是我们精选的国内优质 **ChatGPT 中文版镜像网站**，无需翻墙就能使用：
-| 镜像网站     | 支持版本             | 免费额度 | 使用方式        | 稳定性 | 功能亮点                                           |
-|----------------|----------------------|----------|-----------------|--------|--------------------------------------------------|
-| [www.yixiaai.com](https://www.yixiaai.com)  | GPT-4, GPT-3.5, GPT-4o, o1       | 有       | 扫码使用    | ⭐⭐⭐⭐⭐ | 支持 AI 绘画、AI 助手、AI 插件、AI PPT 等    |
-| [chat.lify.vip](https://chat.lify.vip)     | GPT-4, GPT-3.5, GPT-4o, 4o mini, o1 | 有       | 扫码使用    | ⭐⭐⭐⭐⭐ | 支持多模型，AI 写作、AI 编程、AI 办公 |
-| [yixiaai.cn](https://yixiaai.cn)   | GPT-4, GPT-3.5, GPT-4o       | 有       | 扫码使用    | ⭐⭐⭐⭐  | 稳定快速，各种 AI 工具                    |
-| [lanjing.ai](https://lanjing.ai)  | GPT-4, GPT-4o              | 有       | 扫码使用    | ⭐⭐⭐    | 界面简洁，适合初学者                     |
+| 镜像网站 | 支持版本 | 免费额度 | 使用方式 | 稳定性 | 功能亮点 |
+| --- | --- | --- | --- | --- | --- |
+| [www.yixiaai.com](https://www.yixiaai.com) | GPT-4, GPT-3.5, GPT-4o, o1 | 有 | 扫码使用 | ⭐⭐⭐⭐⭐ | 支持 AI 绘画、AI 助手、AI 插件、AI PPT 等 |
+| [chat.lify.vip](https://chat.lify.vip) | GPT-4, GPT-3.5, GPT-4o, 4o mini, o1 | 有 | 扫码使用 | ⭐⭐⭐⭐⭐ | 支持多模型，AI 写作、AI 编程、AI 办公 |
+| [yixiaai.cn](https://yixiaai.cn) | GPT-4, GPT-3.5, GPT-4o | 有 | 扫码使用 | ⭐⭐⭐⭐ | 稳定快速，各种 AI 工具 |
+| [lanjing.ai](https://lanjing.ai) | GPT-4, GPT-4o | 有 | 扫码使用 | ⭐⭐⭐ | 界面简洁，适合初学者 |
 
 ---
 
