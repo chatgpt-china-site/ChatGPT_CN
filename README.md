@@ -50,7 +50,7 @@
    - **功能亮点**：稳定快速，各种 AI 工具
    - **综合评分**：⭐⭐⭐⭐
 
-4. **[lanjing.ai](https://lanjing.ai)**
+4. **[lanjing.pro](https://lanjing.pro)**
    - **支持版本**：GPT-4, GPT-4o
    - **免费额度**：有
    - **功能亮点**：界面简洁，适合初学者
